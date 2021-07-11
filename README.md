@@ -1,3 +1,3 @@
 # Fake_news_classification
 
-Classisfier which classifies fake news 
+Classification of fake news using naive bayes and logistic regression
